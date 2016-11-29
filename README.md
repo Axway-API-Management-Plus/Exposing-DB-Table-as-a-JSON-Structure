@@ -6,14 +6,14 @@ The following groovy script is used to query the database and return the results
 
 ## API Management Version Compatibilty
 This artefact was successfully tested for the following versions:
-- To be completed
+- 7.4.1
 
 
 ## Install
 
-```
-To be completed
-```
+Sample Policy to authenticate a user against a database with hashed and salted password
+![alt text][Screenshot2]
+[Screenshot2]: https://github.com/Axway-API-Management/Exposing-DB-Table-as-a-JSON-Structure/blob/master/Readme/Screenshot2.png  "Screenshot2"   
 
 ## Usage
 
@@ -23,19 +23,13 @@ Some remarks about the JSON conversion :
 
 
 ![alt text][Screenshot1]
-[Screenshot1]: https://github.com/Axway-API-Management/Exposing-DB-Table-as-a-JSON-Structure/blob/master/Screenshot1.png  "Screenshot1"   
+[Screenshot1]: https://github.com/Axway-API-Management/Exposing-DB-Table-as-a-JSON-Structure/blob/master/Readme/Screenshot1.png  "Screenshot1"   
 
-Sample Policy to authenticate a user against a database with hashed and salted password
-![alt text][Screenshot2]
-[Screenshot2]: https://github.com/Axway-API-Management/Exposing-DB-Table-as-a-JSON-Structure/blob/master/Screenshot2.png  "Screenshot2"   
-
-   
+  
 
 ## Bug and Caveats
 
-```
-To be completed
-```
+Nothing identified
 
 ## Contributing
 
@@ -49,5 +43,5 @@ Please read [Contributing.md] (/Contributing.md) for details on our code of cond
 
 
 ## License
-Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management/Executing-loopback-requests-on-a-listener/blob/master/LICENSE))
+Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management/Exposing-DB-Table-as-a-JSON-Structure/blob/master/LICENSE))
 
