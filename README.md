@@ -33,7 +33,7 @@ Nothing identified
 
 ## Contributing
 
-Please read [Contributing.md] (/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Team
 
@@ -43,5 +43,4 @@ Please read [Contributing.md] (/Contributing.md) for details on our code of cond
 
 
 ## License
-Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management/Exposing-DB-Table-as-a-JSON-Structure/blob/master/LICENSE))
-
+Apache License 2.0 (refer to document [license] (/LICENSE))
