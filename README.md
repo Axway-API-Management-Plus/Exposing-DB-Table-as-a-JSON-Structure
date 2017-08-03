@@ -7,7 +7,7 @@ The following groovy script is used to query the database and return the results
 ## API Management Version Compatibilty
 This artefact was successfully tested for the following versions:
 - 7.4.1
-
+- 7.5.3
 
 ## Install
 
